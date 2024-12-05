@@ -5,6 +5,8 @@ Bem vindo ao meu repositório! Aqui você vai encontrar uma landing page que fal
 
 Fique a vontade para testar e opinar sobre! [Mundo Invertido](https://douglas-oc.github.io/landing-page-mundo-invertido/) 
 
+(Tem também um formulário caso você queira fazer parte do clube de D&D mais famoso de Hawkings)
+
 ### Tecnologias Utilizadas 
 
 - HTML5 e CSS3 para a estrutura e aparência do site;
